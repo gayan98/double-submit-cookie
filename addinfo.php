@@ -19,7 +19,7 @@
         ?>
 
         <script>
-			//ajax call
+			
 			$(document).ready(function()
 			{	
 				var cookie_value = "";
